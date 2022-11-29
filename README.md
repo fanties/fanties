@@ -1,7 +1,7 @@
 ### Hi there 👋 My self introduction 👇    
 
 - 🔭 I’m currently working on `Go` `Java` `Kotlin` `Dart` `Vue3` `TypeScript`
-- 🌱 I’m currently learning `Go` `Flutter`
+- 🌱 I’m currently learning `Go` `Flutter` `Rust`
 - 😄 Pronouns: 星空不问赶路人，时光不负有心人
 - 🍊 Fun fact: Coding and writing
 - 🕊 Site: https://flyoo.cn
